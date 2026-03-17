@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "When I B On Tha Mic",
+  "base_artist": "Rakim",
+  "createdAt": "2026-03-17T21:27:30.380083Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "When I B On Tha Mic",
+      "artist": "Rakim",
+      "has_synced": true,
+      "path": "select/01_When_I_B_On_Tha_Mic_Rakim.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "When I B On Tha Mic",
+      "artist": "Rakim",
+      "has_synced": true,
+      "path": "select/02_When_I_B_On_Tha_Mic_Rakim.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "When I B on tha Mic",
+      "artist": "Rakim",
+      "has_synced": true,
+      "path": "select/03_When_I_B_on_tha_Mic_Rakim.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "When I B On Tha Mic",
+      "artist": "Rakim",
+      "has_synced": true,
+      "path": "select/04_When_I_B_On_Tha_Mic_Rakim.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "When I B On Tha Mic",
+      "artist": "Rakim",
+      "has_synced": true,
+      "path": "select/05_When_I_B_On_Tha_Mic_Rakim.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "When I B On Tha Mic",
+      "artist": "Rakim",
+      "has_synced": true,
+      "path": "select/06_When_I_B_On_Tha_Mic_Rakim.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "When I B On Tha Mic",
+      "artist": "Rakim\u0000﻿Rakim",
+      "has_synced": true,
+      "path": "select/07_When_I_B_On_Tha_Mic_Rakim\u0000﻿Rakim.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "When I B On Tha Mic (Album Version (Explicit))",
+      "artist": "Rakim",
+      "has_synced": true,
+      "path": "select/08_When_I_B_On_Tha_Mic_(Album_Version_(Explicit))_Rakim.lrc"
+    }
+  ]
+}
